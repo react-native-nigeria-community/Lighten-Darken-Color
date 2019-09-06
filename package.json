@@ -1,0 +1,26 @@
+{
+  "name": "lighten-darken-color",
+  "version": "1.0.0",
+  "description": "🧬☀️This package helps you get a darker or lighter shade of any HEX color value you provide.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-nigeria/Lighten-Darken-Color.git"
+  },
+  "keywords": [
+    "color",
+    "HEX",
+    "react-native",
+    "react",
+    "shade"
+  ],
+  "author": "React native Nigeria Community",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-native-nigeria/Lighten-Darken-Color/issues"
+  },
+  "homepage": "https://github.com/react-native-nigeria/Lighten-Darken-Color#readme"
+}
