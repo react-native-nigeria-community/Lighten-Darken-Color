@@ -1,6 +1,6 @@
 import shade from './component/colorshade'
  
-const colorshade = shade;
+const LightenDarkenColor = shade;
 
 
-export {colorshade};
+export {LightenDarkenColor};
