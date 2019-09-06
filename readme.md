@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ../../../Desktop/Screen Shot 2019-09-06 at 7.58.19 PM.png
----
-
 # **Lighten Darken Color**
 
 This is a simple JavaScript helper which allow you darken or lighten a colors in your application.  This function takes colors in hex format (i.e. #F06D06, with or without hash) and lightens or darkens them with a value.
