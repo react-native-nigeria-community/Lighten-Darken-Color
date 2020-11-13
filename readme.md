@@ -92,6 +92,13 @@ const styles = StyleSheet.create({
 This project is licensed under MIT license.
 
 
+## How can I thank you?
 
-### Don't forget to star, like and share :)
+Why not star the github repo? We'd love the attention! Why not share the link for this repository on Twitter or HackerNews? Spread the word!
+
+Don't forget to follow us on [Twitter](https://twitter.com/reactnativeng)
+
+Thanks! React Native Nigeria Community.
+
+
 
