@@ -23,7 +23,8 @@ function shade(col, amt){
     if (g > 255) g = 255;
     else if (g < 0) g = 0;
  
-    return (usePound?"#":"") + (g | (b << 8) | (r << 16)).toString(16);
+    const str = (g | (b << 8) | (r << 16)).toString(16);    
+    return  (usePound?"#":"")  + ("000000" + str).substring(str.length, str.length + 6);    
 }
 
 export default shade;
